@@ -289,7 +289,7 @@ h3.hello span
 }
 h3.my-profession
 {
-    font-size: 30px;
+    font-size: 25px;
     margin: 15px 0;
     font-family: 'Arial';
     color: #302e4c;
@@ -301,7 +301,7 @@ h3.my-profession
 .home-info p
 {
     margin-bottom: 70px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Arial';
     color: #302e4c;
 }
